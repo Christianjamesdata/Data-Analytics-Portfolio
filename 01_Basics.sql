@@ -39,11 +39,9 @@ SELECT NAME, AGE, DEPARTMENT FROM STUDENTS;
 SELECT NAME, AGE FROM STUDENTS
 WHERE AGE > 16;
 
-
 --Filter with group by
 SELECT NAME, AGE FROM STUDENTS
 GROUP BY NAME, AGE
-
 
 -- Filter with Multiple Conditions
 SELECT NAME, AGE, DEPARTMENT FROM STUDENTS
@@ -88,7 +86,6 @@ ADD FACULTY VARCHAR(67)
 
 --Truncate a table(removes all recods while the structure remains)
 TRUNCATE TABLE table_name
-
 
 -- Top N Records
 SELECT TOP 3 * FROM STUDENTS
