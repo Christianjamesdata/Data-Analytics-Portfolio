@@ -7,7 +7,9 @@ real-world problems.
 
 **Skills:** SQL Server | Python (Pandas) | Power BI | Excel  
 **Location:** Nigeria  
-**LinkedIn:** coming soon
+**LinkedIn:www.linkedin.com/in/
+christian-jamesdata
+
 
 ## SQL Projects
 Hands-on SQL practice using both a custom STUDENT database 
