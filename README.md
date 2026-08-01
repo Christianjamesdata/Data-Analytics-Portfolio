@@ -23,6 +23,7 @@ and Microsoft's AdventureWorks2019 database.
 - Triggers and audit logging
 - Window Functions (RANK, DENSE_RANK, LAG, LEAD, etc.)
 - CTEs (Common Table Expressions) and Subqueries
+- Excel Project
 
 ## Tools Used
 - SQL Server Management Studio (SSMS)
