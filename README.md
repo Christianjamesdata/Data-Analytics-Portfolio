@@ -31,3 +31,5 @@ and Microsoft's AdventureWorks2019 database.
 - Python (Pandas)
 - Power BI Desktop
 - Microsoft Excel
+
+![Dashboard Screenshot](powerbi/Dashboard-preview.png)
